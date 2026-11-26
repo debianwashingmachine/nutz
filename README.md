@@ -15,7 +15,7 @@ A minimal, portable, YouTube frontend written in Go.
 - Listens on `127.0.0.1` only, so it is not exposed to your network.
 - For personal use. Respect YouTube's Terms of Service.
 
-- ##Problems
+##Problems
 
 - Some videos may not work.
 - No quality selection (some problems with streaming)
