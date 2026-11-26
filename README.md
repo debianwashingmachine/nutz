@@ -10,7 +10,6 @@ A minimal, portable, YouTube frontend written in Go.
 
 ## Notes
 
-- Plays the best stream that has video and audio together (usually 360p).
 - Uses [kkdai/youtube](https://github.com/kkdai/youtube) for stream extraction.
 - Listens on `127.0.0.1` only, so it is not exposed to your network.
 - For personal use. Respect YouTube's Terms of Service.
@@ -18,4 +17,5 @@ A minimal, portable, YouTube frontend written in Go.
 ## Problems
 
 - Some videos may not work.
-- No quality selection (some problems with streaming)
+- No quality selection (some problems with streaming).
+- Videos are only 360p.
