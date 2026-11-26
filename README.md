@@ -5,7 +5,7 @@ A minimal, portable, YouTube frontend written in Go.
 ## Features
 
 - Search
-- Watch page with description, channel, views, duration, and publish date
+- Watch page with description, views, duration, and publish date
 - Streaming proxy with seeking (HTTP Range support)
 
 ## Notes
